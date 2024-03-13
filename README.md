@@ -1,4 +1,7 @@
 # Blender Addon: Unwrap and Layout UVs
+![GitHub license](https://img.shields.io/github/license/srwxr-xr-x/Blender-Unwrap-Layout-UVs.svg)
+![GitHub issues](https://img.shields.io/github/issues/srwxr-xr-x/Blender-Unwrap-Layout-UVs.svg)
+![GitHub release](https://img.shields.io/github/v/srwxr-xr-x/Blender-Unwrap-Layout-UVs?include_prereleases)
 
 ## Features:
 * Unwrap and Layout UVs using [Texel Density Checker](https://github.com/mrven/Blender-Texel-Density-Checker) automatically!
