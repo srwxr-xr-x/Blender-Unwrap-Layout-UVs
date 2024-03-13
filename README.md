@@ -14,4 +14,4 @@ You will need to install [Texel Density Checker](https://github.com/mrven/Blende
 
 ### Reporting Issues
 
-You can report bugs and crashes by opening an issue on our [issue tracker](https://github.com/frostwizard4/neutrino/issues).
+You can report bugs and crashes by opening an issue on our [issue tracker](https://github.com/srwxr-xr-x/Blender-Unwrap-Layout-UVs/issues).
